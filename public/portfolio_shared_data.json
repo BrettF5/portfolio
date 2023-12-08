@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Brett Fort",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/BrettF5",
           "class": "fab fa-github"
         },
         {
