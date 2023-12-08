@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+All about Brett!
+
+[Live Site](https://brett-portfolio-301d106.netlify.app/)
