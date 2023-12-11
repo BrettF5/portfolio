@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "301 Final Project Placeholder",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
@@ -35,32 +35,36 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Digital Cigar Vault",
+        "startDate": "2023",
+        "description": "This was the Final Project for Foundations of Software Development at Code Fellows. This webpage is designed for people who love cigars. It allows users to maintain an inventory of their cigars, receive suggestions for new cigars, and track the humidity levels in their cigar humidor.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/dcv_logo.png",
+          "images/portfolio/photography/image1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://brettf5.github.io/DigitalCigarVault/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies!",
+        "startDate": "2023",
+        "description": "This was one of the first apps I worked on with CodeFellows. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/image1.jpg",
+          "images/portfolio/adventure/sales-table.png"
         ],
         "url": "https://github.com",
         "technologies": [
