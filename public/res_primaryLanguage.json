@@ -92,15 +92,12 @@
           "Python", "Javascript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MongoDB",
+          "JavaScript",
+          "CSS",
+          "SQL"
         ]
       },
       {
@@ -117,6 +114,38 @@
           "safety procedures",
           "Logistics and Planning",
           "Aircraft Loading and Unloading Equipment"
+        ]
+      },
+      {
+        "company": "Pactera",
+        "title": "System Analyst",
+        "years": "07.2016 - 07-2021",
+        "mainTech": [
+          "Microsoft Azure Virtual Server",
+          "In-house Microsoft Apps",
+          ""
+        ],
+        "technologies": [
+          "Microsoft Excel",
+          "aviation regulations",
+          ""
+        ]
+      },
+      {
+        "company": "Pactera",
+        "title": "System Engineer for Microsoft",
+        "years": "07.2011 - 07-2016",
+        "mainTech": [
+          "Microsoft Azure Virtual Server",
+          ""
+        ],
+        "technologies": [
+          "Microsoft Server Operationg System ",
+          "HP Servers",
+          "Dell Servers",
+          "Network+",
+          "Server+",
+          "Back-end Infastructure"
         ]
       }
     ]

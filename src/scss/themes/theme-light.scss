@@ -2,6 +2,11 @@ body[data-theme="light"] {
     @import '/src/scss/light-slider.scss';
  
     .slider-tab {
-       background-color: #D7CAAA;
+       background-color: #695543;
     }
 }
+
+#home {
+    background-image: url(~/public/images/themes/background.jpg);
+    background-size: cover;
+ }
