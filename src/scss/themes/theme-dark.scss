@@ -3,7 +3,7 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #4F5559;
    }
 
    .title-styles {
@@ -16,11 +16,11 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #4F5559;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #262a2e;
    }
 
    .link-href {
@@ -33,7 +33,7 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #0B0C0D;
       h1 {
          color: white;
       }
